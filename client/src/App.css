@@ -1,0 +1,12 @@
+/* .App {
+    margin: 0;
+  } */
+  
+  .App .navbar-brand .navbar{
+    font-weight: bold;
+  }
+ 
+  .container {
+    width:100%;
+    overflow: hidden;
+  }

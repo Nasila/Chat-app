@@ -1,0 +1,42 @@
+
+
+h4 {
+    text-align: center;
+    
+}
+
+.left-container {
+    overflow-y: auto;
+    background: white;
+    border: solid 1px #ddd;
+    height: 100%;
+    
+}
+
+.right-container {
+    height: 100%;
+    overflow-y: auto;
+
+}
+.list-group {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border: none;
+}
+
+.list-group span {
+    padding: 5px;
+    font-size: 14px;
+}
+.main-container {
+    background: #ddd;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    overflow: hidden;
+}
+
+.click {
+  pointer-events: none;
+}
